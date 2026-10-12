@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Chinteshwar Pawar 👋
 
-<!--
-**chinteshwar21/chinteshwar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java and Spring Boot developer building AI-powered automation systems,
+REST APIs, and practical frontend experiences.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java and Spring Boot
+- AI integrations and LLM applications
+- REST APIs and MySQL
+- React and frontend development
+- Open-source contributions
+
+## Featured work
+
+- [Migradent Clinic System](https://github.com/chinteshwar21/migradent-clinic-system)
+- [VitalFlow AI](https://github.com/chinteshwar21/vitalflow-ai)
+- [Portfolio](https://github.com/chinteshwar21/Portfolio)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/chinteshwar-pawar)
+- [VitalFlow AI](https://vitalflowai.in)
